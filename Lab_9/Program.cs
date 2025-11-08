@@ -1,5 +1,5 @@
 ﻿/*using System;
-
+# full code available in this file for all questions of Lab 9
 namespace Lab_9
 {
     class Program
