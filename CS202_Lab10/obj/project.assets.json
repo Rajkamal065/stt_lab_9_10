@@ -13,21 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\manoh\\OneDrive\\Desktop\\stt_lab_9_10\\Lab_9\\Lab_9.csproj",
-      "projectName": "Lab_9",
-      "projectPath": "C:\\Users\\manoh\\OneDrive\\Desktop\\stt_lab_9_10\\Lab_9\\Lab_9.csproj",
+      "projectUniqueName": "C:\\Users\\manoh\\OneDrive\\Desktop\\CS202_Lab10\\CS202_Lab10.csproj",
+      "projectName": "CS202_Lab10",
+      "projectPath": "C:\\Users\\manoh\\OneDrive\\Desktop\\CS202_Lab10\\CS202_Lab10.csproj",
       "packagesPath": "C:\\Users\\manoh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\manoh\\OneDrive\\Desktop\\stt_lab_9_10\\Lab_9\\obj\\",
+      "outputPath": "C:\\Users\\manoh\\OneDrive\\Desktop\\CS202_Lab10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\manoh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\manoh\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -45,8 +43,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.300"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -67,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.415/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,14 @@
+C:\Users\manoh\OneDrive\Desktop\CS202_Lab10\bin\Release\net8.0\CS202_Lab10.exe
+C:\Users\manoh\OneDrive\Desktop\CS202_Lab10\bin\Release\net8.0\CS202_Lab10.deps.json
+C:\Users\manoh\OneDrive\Desktop\CS202_Lab10\bin\Release\net8.0\CS202_Lab10.runtimeconfig.json
+C:\Users\manoh\OneDrive\Desktop\CS202_Lab10\bin\Release\net8.0\CS202_Lab10.dll
+C:\Users\manoh\OneDrive\Desktop\CS202_Lab10\bin\Release\net8.0\CS202_Lab10.pdb
+C:\Users\manoh\OneDrive\Desktop\CS202_Lab10\obj\Release\net8.0\CS202_Lab10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manoh\OneDrive\Desktop\CS202_Lab10\obj\Release\net8.0\CS202_Lab10.AssemblyInfoInputs.cache
+C:\Users\manoh\OneDrive\Desktop\CS202_Lab10\obj\Release\net8.0\CS202_Lab10.AssemblyInfo.cs
+C:\Users\manoh\OneDrive\Desktop\CS202_Lab10\obj\Release\net8.0\CS202_Lab10.csproj.CoreCompileInputs.cache
+C:\Users\manoh\OneDrive\Desktop\CS202_Lab10\obj\Release\net8.0\CS202_Lab10.dll
+C:\Users\manoh\OneDrive\Desktop\CS202_Lab10\obj\Release\net8.0\refint\CS202_Lab10.dll
+C:\Users\manoh\OneDrive\Desktop\CS202_Lab10\obj\Release\net8.0\CS202_Lab10.pdb
+C:\Users\manoh\OneDrive\Desktop\CS202_Lab10\obj\Release\net8.0\CS202_Lab10.genruntimeconfig.cache
+C:\Users\manoh\OneDrive\Desktop\CS202_Lab10\obj\Release\net8.0\ref\CS202_Lab10.dll

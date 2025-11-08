@@ -1,0 +1,14 @@
+C:\Users\manoh\OneDrive\Desktop\CS202_Lab10_Activity2\bin\Debug\net8.0\CS202_Lab10_Activity2.exe
+C:\Users\manoh\OneDrive\Desktop\CS202_Lab10_Activity2\bin\Debug\net8.0\CS202_Lab10_Activity2.deps.json
+C:\Users\manoh\OneDrive\Desktop\CS202_Lab10_Activity2\bin\Debug\net8.0\CS202_Lab10_Activity2.runtimeconfig.json
+C:\Users\manoh\OneDrive\Desktop\CS202_Lab10_Activity2\bin\Debug\net8.0\CS202_Lab10_Activity2.dll
+C:\Users\manoh\OneDrive\Desktop\CS202_Lab10_Activity2\bin\Debug\net8.0\CS202_Lab10_Activity2.pdb
+C:\Users\manoh\OneDrive\Desktop\CS202_Lab10_Activity2\obj\Debug\net8.0\CS202_Lab10_Activity2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manoh\OneDrive\Desktop\CS202_Lab10_Activity2\obj\Debug\net8.0\CS202_Lab10_Activity2.AssemblyInfoInputs.cache
+C:\Users\manoh\OneDrive\Desktop\CS202_Lab10_Activity2\obj\Debug\net8.0\CS202_Lab10_Activity2.AssemblyInfo.cs
+C:\Users\manoh\OneDrive\Desktop\CS202_Lab10_Activity2\obj\Debug\net8.0\CS202_Lab10_Activity2.csproj.CoreCompileInputs.cache
+C:\Users\manoh\OneDrive\Desktop\CS202_Lab10_Activity2\obj\Debug\net8.0\CS202_Lab10_Activity2.dll
+C:\Users\manoh\OneDrive\Desktop\CS202_Lab10_Activity2\obj\Debug\net8.0\refint\CS202_Lab10_Activity2.dll
+C:\Users\manoh\OneDrive\Desktop\CS202_Lab10_Activity2\obj\Debug\net8.0\CS202_Lab10_Activity2.pdb
+C:\Users\manoh\OneDrive\Desktop\CS202_Lab10_Activity2\obj\Debug\net8.0\CS202_Lab10_Activity2.genruntimeconfig.cache
+C:\Users\manoh\OneDrive\Desktop\CS202_Lab10_Activity2\obj\Debug\net8.0\ref\CS202_Lab10_Activity2.dll
